@@ -1,4 +1,4 @@
-File 2
+﻿File 2
 
 modif 04-07-18 11:30
 
@@ -10,3 +10,6 @@ Modif 2bis
 
 modif dans master par rapport à branch4
 line 3 from branch4
+
+
+Une nouvelle ligne  ! ! !
