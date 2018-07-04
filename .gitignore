@@ -1,0 +1,5 @@
+# ignore files
+*.test
+
+# ignore target maven directories
+target/
